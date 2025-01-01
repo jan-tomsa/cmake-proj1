@@ -17,9 +17,3 @@ ENV TZ=Europe/Prague
 
 # Set the working directory
 WORKDIR /app
-
-# Copy project files into the container
-# COPY . .
-
-# Run CMake to configure and build the project
-# RUN cmake -B build -S . && cmake --build build
