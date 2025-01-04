@@ -1,3 +1,5 @@
+# Note: Use "Visual Studio 16 2019" generator when configuring this project for VS.
+
 # Minimum required version of CMake
 cmake_minimum_required(VERSION 3.10)
 
